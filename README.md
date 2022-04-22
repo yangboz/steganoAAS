@@ -16,6 +16,9 @@ uvicorn application.server.main:app
 
 #2.stegano level for api parameters
 
+#3. html response with steganoed image preview, ref: https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-6-jinja-templates/
+
+
 ## reference
 
 
