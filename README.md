@@ -25,3 +25,6 @@ uvicorn application.server.main:app
 https://pypi.org/project/stegano/
 
 https://github.com/gauravgola96/FastAPI-Example/blob/master/api.py
+
+
+https://github.com/yangboz/StegaStamp
